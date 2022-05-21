@@ -42,7 +42,7 @@ class _MyAppState extends State<MyApp> {
                         style: TextStyle(fontSize: 15),
                       ),
                       const Text(
-                        'info@s1rbl4ck.com',
+                        'info@mail.com',
                         style: TextStyle(fontSize: 15),
                       ),
                     ],
